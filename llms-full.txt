@@ -6,22 +6,22 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Bankruptcy Basics -- When Filing Makes Sense
+## Bankruptcy Basics - When Filing Makes Sense
 Source: https://cantpaymybills.com/bankruptcy-overview.html
 
-Bankruptcy Basics -- When Filing Makes Sense
+Bankruptcy Basics - When Filing Makes Sense
 
 An honest overview when debt becomes unmanageable
 
-cantpaymybills.com › Bankruptcy Basics -- When Filing Makes Sense
+cantpaymybills.com › Bankruptcy Basics - When Filing Makes Sense
 
 When Bankruptcy Makes Sense
 
-Bankruptcy is a federal legal process designed to give honest debtors a fresh start. It makes sense when: your debt exceeds your ability to repay within 3-5 years, you are being sued or garnished, medical debt is overwhelming, or you have already exhausted negotiation and hardship programs. It does NOT mean you failed -- it means the system is working as designed.
+Bankruptcy is a federal legal process designed to give honest debtors a fresh start. It makes sense when: your debt exceeds your ability to repay within 3-5 years, you are being sued or garnished, medical debt is overwhelming, or you have already exhausted negotiation and hardship programs. It does NOT mean you failed - it means the system is working as designed.
 
 Chapter 7: Liquidation (3-4 months)
 
-Chapter 7 eliminates most unsecured debts (credit cards, medical bills, personal loans) in about 3-4 months. You must pass the means test (income below your state's median). Most filers keep everything -- cars, homes, retirement accounts -- because exemptions protect them. A Chapter 7 discharge is permanent and cannot be revoked.
+Chapter 7 eliminates most unsecured debts (credit cards, medical bills, personal loans) in about 3-4 months. You must pass the means test (income below your state's median). Most filers keep everything - cars, homes, retirement accounts - because exemptions protect them. A Chapter 7 discharge is permanent and cannot be revoked.
 
 Chapter 13: Repayment Plan (3-5 years)
 
@@ -62,7 +62,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -163,14 +163,14 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Debt Management Plans (DMPs) -- Nonprofit Help to Pay Down Debt
+## Debt Management Plans (DMPs) - Nonprofit Help to Pay Down Debt
 Source: https://cantpaymybills.com/debt-management-plans.html
 
-Debt Management Plans (DMPs) -- Nonprofit Help to Pay Down Debt
+Debt Management Plans (DMPs) - Nonprofit Help to Pay Down Debt
 
 One payment, lower rates, no bankruptcy required
 
-cantpaymybills.com › Debt Management Plans (DMPs) -- Nonprofit Help to Pay Down Debt
+cantpaymybills.com › Debt Management Plans (DMPs) - Nonprofit Help to Pay Down Debt
 
 How a DMP Works
 
@@ -182,11 +182,11 @@ DMP: Pay back full principal at reduced interest over 3-5 years. Credit impact: 
 
 Who Qualifies
 
-You generally need: enough income to make a meaningful monthly payment (typically $200+/month), primarily unsecured debt (credit cards, medical bills), and a willingness to stop using credit cards during the plan. DMPs do not cover mortgages, auto loans, student loans, or tax debts -- only unsecured consumer debt. If your debt-to-income ratio is too high, the counselor may recommend bankruptcy instead.
+You generally need: enough income to make a meaningful monthly payment (typically $200+/month), primarily unsecured debt (credit cards, medical bills), and a willingness to stop using credit cards during the plan. DMPs do not cover mortgages, auto loans, student loans, or tax debts - only unsecured consumer debt. If your debt-to-income ratio is too high, the counselor may recommend bankruptcy instead.
 
 Finding a Legitimate Agency
 
-Start with the NFCC (nfcc.org) or FCAA (fcaa.org) -- both vet member agencies. Legitimate agencies: are 501(c)(3) nonprofits, offer free initial counseling, charge modest fees ($25-50/month), and are transparent about all costs. Red flags: large upfront fees, guarantees to eliminate debt, pressure to enroll immediately, or for-profit status disguised as nonprofit.
+Start with the NFCC (nfcc.org) or FCAA (fcaa.org) - both vet member agencies. Legitimate agencies: are 501(c)(3) nonprofits, offer free initial counseling, charge modest fees ($25-50/month), and are transparent about all costs. Red flags: large upfront fees, guarantees to eliminate debt, pressure to enroll immediately, or for-profit status disguised as nonprofit.
 
 Frequently Asked Questions
 
@@ -215,7 +215,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -316,14 +316,14 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Creditor Hardship Programs -- Reduced Payments and Interest
+## Creditor Hardship Programs - Reduced Payments and Interest
 Source: https://cantpaymybills.com/hardship-programs.html
 
-Creditor Hardship Programs -- Reduced Payments and Interest
+Creditor Hardship Programs - Reduced Payments and Interest
 
 Programs your creditor has but will not advertise
 
-cantpaymybills.com › Creditor Hardship Programs -- Reduced Payments and Interest
+cantpaymybills.com › Creditor Hardship Programs - Reduced Payments and Interest
 
 What Hardship Programs Offer
 
@@ -335,7 +335,7 @@ Call the number on the back of your card or your loan statement. Ask for the "ha
 
 Credit Card Hardship Programs
 
-Most major issuers (Chase, Citi, Capital One, Discover, AmEx, Bank of America) have formal programs. Typical terms: 0-9% interest rate for 6-12 months, waived fees, reduced minimum payment. Some require you to close the card. You typically cannot use the card during the hardship period. Call before you miss a payment if possible -- early enrollment gets better terms.
+Most major issuers (Chase, Citi, Capital One, Discover, AmEx, Bank of America) have formal programs. Typical terms: 0-9% interest rate for 6-12 months, waived fees, reduced minimum payment. Some require you to close the card. You typically cannot use the card during the hardship period. Call before you miss a payment if possible - early enrollment gets better terms.
 
 Mortgage and Auto Loan Options
 
@@ -372,7 +372,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -473,8 +473,10 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Can't Pay Your Bills? -- Options Before Bankruptcy [2026]
+## Can't Pay Your Bills? - Options Before Bankruptcy [2026]
 Source: https://cantpaymybills.com/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
@@ -490,7 +492,7 @@ This guide will help you prioritize, understand your rights, and make a plan. No
 
 Priority #1: Keep the Lights On
 
-Not all bills are equal. When money is short, pay in this order: 1. Food and essential medications. 2. Housing (rent/mortgage) -- keep a roof over your head. 3. Utilities -- many states prohibit shut-offs during extreme weather. 4. Transportation -- you need to get to work. 5. Insurance -- health, auto (if required). 6. Child support -- non-payment has serious legal consequences.
+Not all bills are equal. When money is short, pay in this order: 1. Food and essential medications. 2. Housing (rent/mortgage) - keep a roof over your head. 3. Utilities - many states prohibit shut-offs during extreme weather. 4. Transportation - you need to get to work. 5. Insurance - health, auto (if required). 6. Child support - non-payment has serious legal consequences.
 
 Credit cards, medical bills, personal loans, and old debts go to the bottom. These are unsecured debts with no immediate consequence for non-payment. They will call and send letters, but they cannot take anything without first suing you and winning a judgment.
 
@@ -502,13 +504,13 @@ Knowledge is power. When you understand the limits of what creditors can do, the
 
 Free and Low-Cost Help
 
-211: Call 211 for local assistance with utilities, rent, food, and emergency funds. SNAP/food stamps: Apply at your state's DHS website. Medicaid: Free healthcare for low-income individuals. LIHEAP: Federal program for utility bills. Legal aid: Free legal help for low-income individuals -- find your local office at lsc.gov. Credit counseling: HUD-approved nonprofit counseling at no cost (required before bankruptcy, useful anytime).
+211: Call 211 for local assistance with utilities, rent, food, and emergency funds. SNAP/food stamps: Apply at your state's DHS website. Medicaid: Free healthcare for low-income individuals. LIHEAP: Federal program for utility bills. Legal aid: Free legal help for low-income individuals - find your local office at lsc.gov. Credit counseling: HUD-approved nonprofit counseling at no cost (required before bankruptcy, useful anytime).
 
 Apply to everything you might qualify for. There is no shame in using programs designed for exactly your situation.
 
 Negotiating With Creditors
 
-Creditors would rather get something than nothing. Options to negotiate: Hardship programs: Many credit card companies offer reduced interest, lower minimum payments, or temporary forbearance -- you have to ask. Settlement: Offer a lump sum for less than the full balance (typically 25-50%). Payment plans: Propose what you can actually afford. Medical bills: Hospitals are often willing to negotiate 50-80% reductions, and nonprofits must offer charity care.
+Creditors would rather get something than nothing. Options to negotiate: Hardship programs: Many credit card companies offer reduced interest, lower minimum payments, or temporary forbearance - you have to ask. Settlement: Offer a lump sum for less than the full balance (typically 25-50%). Payment plans: Propose what you can actually afford. Medical bills: Hospitals are often willing to negotiate 50-80% reductions, and nonprofits must offer charity care.
 
 Always get agreements in writing before paying. Be aware that settled debt may result in a 1099-C tax form.
 
@@ -526,13 +528,13 @@ Legitimate help exists: HUD-approved credit counselors (free), legal aid (free),
 
 Making a Plan
 
-Step 1: List every debt with amount, interest rate, and monthly payment. Step 2: List all income. Step 3: Create a bare-bones budget -- essentials only. Step 4: Determine the gap between income and essential expenses. Step 5: Prioritize debts using the order above. Step 6: Contact creditors for hardship programs. Step 7: Apply for assistance. Step 8: Consult with a bankruptcy attorney for a free evaluation.
+Step 1: List every debt with amount, interest rate, and monthly payment. Step 2: List all income. Step 3: Create a bare-bones budget - essentials only. Step 4: Determine the gap between income and essential expenses. Step 5: Prioritize debts using the order above. Step 6: Contact creditors for hardship programs. Step 7: Apply for assistance. Step 8: Consult with a bankruptcy attorney for a free evaluation.
 
 You do not need to solve everything today. You need a plan, and you need to take one step. The first step is usually the hardest.
 
 Explore More Topics
 
-Triage Your Debts -- Which Bills to Pay First\n Negotiating With Creditors\n Credit Card Hardship Programs\n Debt Management Plans Through Credit Counseling\n Bankruptcy Basics -- When Bills Are Truly Unmanageable\n Medical Bill Options When You Cannot Pay\n Utility Shutoff Protections\n Rent Assistance Programs\n How to Prioritize Bills With Limited Income
+Triage Your Debts - Which Bills to Pay First\n Negotiating With Creditors\n Credit Card Hardship Programs\n Debt Management Plans Through Credit Counseling\n Bankruptcy Basics - When Bills Are Truly Unmanageable\n Medical Bill Options When You Cannot Pay\n Utility Shutoff Protections\n Rent Assistance Programs\n How to Prioritize Bills With Limited Income
 
 Frequently Asked Questions
 
@@ -554,7 +556,7 @@ Unpaid bills lead to late fees, penalty interest rates, collection calls, and ne
 
 What should I do if I'm drowning in debt?
 
-First, stop the bleeding: list all debts, prioritize essentials (housing, utilities, food), and stop using credit. Then evaluate your options: negotiating with creditors, credit counseling, debt management plans, or bankruptcy. If you are being sued or garnished, consult a bankruptcy attorney immediately -- many offer free consultations.
+First, stop the bleeding: list all debts, prioritize essentials (housing, utilities, food), and stop using credit. Then evaluate your options: negotiating with creditors, credit counseling, debt management plans, or bankruptcy. If you are being sued or garnished, consult a bankruptcy attorney immediately - many offer free consultations.
 
 What are my options if I can't pay my debts?
 
@@ -573,7 +575,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -642,7 +644,7 @@ whatischapter7.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -777,6 +779,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 cantpaymybills.com
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -789,6 +792,8 @@ Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 ---
 
@@ -803,7 +808,7 @@ cantpaymybills.com › Medical Bill Options When You Cannot Pay
 
 Hospital Charity Care and Financial Assistance
 
-Under the ACA (Affordable Care Act), all 501(c)(3) nonprofit hospitals must have a financial assistance policy (also called "charity care"). If your income is below 200-400% of the federal poverty level, you may qualify for free or reduced-cost care -- even after you have already been billed. Ask for the hospital's "financial assistance application" and submit it with proof of income. This can reduce or eliminate the bill entirely.
+Under the ACA (Affordable Care Act), all 501(c)(3) nonprofit hospitals must have a financial assistance policy (also called "charity care"). If your income is below 200-400% of the federal poverty level, you may qualify for free or reduced-cost care - even after you have already been billed. Ask for the hospital's "financial assistance application" and submit it with proof of income. This can reduce or eliminate the bill entirely.
 
 Negotiating Medical Bills Down
 
@@ -815,7 +820,7 @@ As of 2023, the three major credit bureaus no longer report medical debt under $
 
 When Medical Debt Becomes Unmanageable
 
-If medical debt is your primary financial problem, consider: applying for every charity care program available, negotiating all bills, using a debt management plan for remaining balances, and as a last resort, bankruptcy (which discharges medical debt completely). Medical debt is the leading cause of bankruptcy in America -- there is no shame in using the system as intended.
+If medical debt is your primary financial problem, consider: applying for every charity care program available, negotiating all bills, using a debt management plan for remaining balances, and as a last resort, bankruptcy (which discharges medical debt completely). Medical debt is the leading cause of bankruptcy in America - there is no shame in using the system as intended.
 
 Frequently Asked Questions
 
@@ -844,7 +849,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -945,14 +950,14 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Negotiating With Creditors -- How to Get Better Terms Without a Lawyer
+## Negotiating With Creditors - How to Get Better Terms Without a Lawyer
 Source: https://cantpaymybills.com/negotiating-with-creditors.html
 
-Negotiating With Creditors -- How to Get Better Terms Without a Lawyer
+Negotiating With Creditors - How to Get Better Terms Without a Lawyer
 
 Real strategies that work when you are behind on payments
 
-cantpaymybills.com › Negotiating With Creditors -- How to Get Better Terms Without a Lawyer
+cantpaymybills.com › Negotiating With Creditors - How to Get Better Terms Without a Lawyer
 
 Why Creditors Negotiate
 
@@ -997,7 +1002,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1098,26 +1103,26 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Prioritizing Bills on a Limited Budget -- A Monthly Checklist
+## Prioritizing Bills on a Limited Budget - A Monthly Checklist
 Source: https://cantpaymybills.com/prioritizing-bills.html
 
-Prioritizing Bills on a Limited Budget -- A Monthly Checklist
+Prioritizing Bills on a Limited Budget - A Monthly Checklist
 
 A practical worksheet for stretching every dollar
 
-cantpaymybills.com › Prioritizing Bills on a Limited Budget -- A Monthly Checklist
+cantpaymybills.com › Prioritizing Bills on a Limited Budget - A Monthly Checklist
 
 Step 1: Know Your Exact Income
 
-Before you can prioritize, you need an exact number. Add up all monthly income: wages, side work, benefits, child support received, gig income, any other money coming in. Use the net (after-tax) amount for wages. This is your total monthly budget. Do not estimate -- look at actual bank deposits from the last 2-3 months and average them.
+Before you can prioritize, you need an exact number. Add up all monthly income: wages, side work, benefits, child support received, gig income, any other money coming in. Use the net (after-tax) amount for wages. This is your total monthly budget. Do not estimate - look at actual bank deposits from the last 2-3 months and average them.
 
 Step 2: List Every Obligation
 
-Write down every bill with its due date, minimum payment, and consequence of non-payment. Be honest about every obligation -- ignoring bills does not make them go away. Include: rent, utilities, food, medication, car payment, insurance, phone, child support, student loans, credit cards, medical bills, subscriptions, and anything else you owe.
+Write down every bill with its due date, minimum payment, and consequence of non-payment. Be honest about every obligation - ignoring bills does not make them go away. Include: rent, utilities, food, medication, car payment, insurance, phone, child support, student loans, credit cards, medical bills, subscriptions, and anything else you owe.
 
 Step 3: Allocate Using the Tier System
 
-Using the four-tier triage system: allocate income to Tier 1 (survival) first -- rent, utilities, food, medication, child support. Then Tier 2 (asset protection) -- car payment, insurance. Then Tier 3 (legal risk) -- tax debts, student loans. Then Tier 4 (unsecured) -- credit cards, medical bills, collections. Stop allocating when money runs out.
+Using the four-tier triage system: allocate income to Tier 1 (survival) first - rent, utilities, food, medication, child support. Then Tier 2 (asset protection) - car payment, insurance. Then Tier 3 (legal risk) - tax debts, student loans. Then Tier 4 (unsecured) - credit cards, medical bills, collections. Stop allocating when money runs out.
 
 Step 4: Communicate With Creditors You Cannot Pay
 
@@ -1125,7 +1130,7 @@ For every creditor you cannot pay this month, call or write before the due date.
 
 Step 5: Cut Where You Can
 
-Review every expense for cuts: cancel subscriptions, switch to a cheaper phone plan, reduce grocery spending (food banks are not just for the unemployed), lower thermostat, carpool, negotiate insurance rates. Every dollar freed up goes to Tier 1. This is temporary -- you are in survival mode, not permanent austerity.
+Review every expense for cuts: cancel subscriptions, switch to a cheaper phone plan, reduce grocery spending (food banks are not just for the unemployed), lower thermostat, carpool, negotiate insurance rates. Every dollar freed up goes to Tier 1. This is temporary - you are in survival mode, not permanent austerity.
 
 Frequently Asked Questions
 
@@ -1135,7 +1140,7 @@ Use the average of your last 3 months as your baseline budget. In months when in
 
 Should I stop contributing to my 401(k)?
 
-If you cannot cover Tier 1 expenses, temporarily reducing 401(k) contributions may be necessary. However, do not withdraw from retirement accounts unless absolutely essential -- the tax penalties are severe (10% penalty plus income tax). And never withdraw to pay credit card bills.
+If you cannot cover Tier 1 expenses, temporarily reducing 401(k) contributions may be necessary. However, do not withdraw from retirement accounts unless absolutely essential - the tax penalties are severe (10% penalty plus income tax). And never withdraw to pay credit card bills.
 
 What if I am behind on everything?
 
@@ -1154,7 +1159,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1255,14 +1260,14 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Emergency Rent Assistance Programs -- Help Paying Rent
+## Emergency Rent Assistance Programs - Help Paying Rent
 Source: https://cantpaymybills.com/rent-assistance.html
 
-Emergency Rent Assistance Programs -- Help Paying Rent
+Emergency Rent Assistance Programs - Help Paying Rent
 
 Federal, state, and local programs that can help
 
-cantpaymybills.com › Emergency Rent Assistance Programs -- Help Paying Rent
+cantpaymybills.com › Emergency Rent Assistance Programs - Help Paying Rent
 
 Federal Emergency Rental Assistance
 
@@ -1270,11 +1275,11 @@ The Emergency Rental Assistance (ERA) program, funded through federal COVID reli
 
 Finding Local Rent Assistance
 
-Start with 211.org or dial 2-1-1 -- this connects you to your local United Way resource database, which tracks all available assistance programs in your area. Other sources: Salvation Army, St. Vincent de Paul, Catholic Charities, local community action agencies, and your city or county human services department. Many churches and faith-based organizations also provide emergency rent assistance regardless of religious affiliation.
+Start with 211.org or dial 2-1-1 - this connects you to your local United Way resource database, which tracks all available assistance programs in your area. Other sources: Salvation Army, St. Vincent de Paul, Catholic Charities, local community action agencies, and your city or county human services department. Many churches and faith-based organizations also provide emergency rent assistance regardless of religious affiliation.
 
 Section 8 and Housing Choice Vouchers
 
-Section 8 (Housing Choice Voucher) provides ongoing rental subsidies for qualifying low-income families. Eligibility is typically 50% of area median income. The challenge: waitlists are extremely long (often 2-10 years). Apply even if the wait is long -- once you are on the list, you wait in line. Some localities open applications only periodically, so check your local housing authority regularly.
+Section 8 (Housing Choice Voucher) provides ongoing rental subsidies for qualifying low-income families. Eligibility is typically 50% of area median income. The challenge: waitlists are extremely long (often 2-10 years). Apply even if the wait is long - once you are on the list, you wait in line. Some localities open applications only periodically, so check your local housing authority regularly.
 
 Tenant-Landlord Negotiation
 
@@ -1282,7 +1287,7 @@ If you are behind on rent, talk to your landlord before they talk to a lawyer. M
 
 When Bankruptcy Helps With Rent
 
-Filing bankruptcy can help with rent in two ways: the automatic stay can pause an eviction (with limitations -- see bankruptcy and rent), and discharging other debts frees up money to pay rent going forward. Bankruptcy eliminates credit card and medical debt, which may be consuming income you need for housing.
+Filing bankruptcy can help with rent in two ways: the automatic stay can pause an eviction (with limitations - see bankruptcy and rent), and discharging other debts frees up money to pay rent going forward. Bankruptcy eliminates credit card and medical debt, which may be consuming income you need for housing.
 
 Frequently Asked Questions
 
@@ -1311,7 +1316,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1412,22 +1417,22 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## How to Triage Your Debts -- Which Bills to Pay First
+## How to Triage Your Debts - Which Bills to Pay First
 Source: https://cantpaymybills.com/triage-your-debts.html
 
-How to Triage Your Debts -- Which Bills to Pay First
+How to Triage Your Debts - Which Bills to Pay First
 
 A rational system for when you cannot pay everything
 
-cantpaymybills.com › How to Triage Your Debts -- Which Bills to Pay First
+cantpaymybills.com › How to Triage Your Debts - Which Bills to Pay First
 
 The Four-Tier System
 
-When money is short, you need a rational system -- not panic. Tier 1 (survival): rent/mortgage, utilities, food, essential medication, child support. Tier 2 (protect assets): car payment (if needed for work), insurance. Tier 3 (legal consequences): tax debts, student loans. Tier 4 (unsecured/deferrable): credit cards, medical bills, personal loans, collection accounts.
+When money is short, you need a rational system - not panic. Tier 1 (survival): rent/mortgage, utilities, food, essential medication, child support. Tier 2 (protect assets): car payment (if needed for work), insurance. Tier 3 (legal consequences): tax debts, student loans. Tier 4 (unsecured/deferrable): credit cards, medical bills, personal loans, collection accounts.
 
 Why This Order Matters
 
-Tier 1 debts keep you alive and housed. Missing rent leads to eviction. Missing utilities leads to shutoffs. Tier 2 debts protect assets that generate income -- lose your car, lose your job. Tier 3 debts carry legal penalties but typically have slower enforcement. Tier 4 debts are unsecured -- the worst outcome is collections and credit damage, which is survivable.
+Tier 1 debts keep you alive and housed. Missing rent leads to eviction. Missing utilities leads to shutoffs. Tier 2 debts protect assets that generate income - lose your car, lose your job. Tier 3 debts carry legal penalties but typically have slower enforcement. Tier 4 debts are unsecured - the worst outcome is collections and credit damage, which is survivable.
 
 The Credit Card Trap
 
@@ -1435,13 +1440,13 @@ Credit card companies design their system to make you prioritize them through fe
 
 Making the Triage Call Each Month
 
-At the start of each month: list all income, list all Tier 1 obligations first, then allocate downward through the tiers until money runs out. Communicate with creditors in tiers you cannot reach -- many will work with you if you are proactive. If you consistently cannot cover Tier 1, you may need to consider bankruptcy or hardship programs.
+At the start of each month: list all income, list all Tier 1 obligations first, then allocate downward through the tiers until money runs out. Communicate with creditors in tiers you cannot reach - many will work with you if you are proactive. If you consistently cannot cover Tier 1, you may need to consider bankruptcy or hardship programs.
 
 Frequently Asked Questions
 
 Should I pay my credit card or my rent?
 
-Always pay rent first. A credit card is unsecured debt -- the worst consequence is collections and credit damage. Missing rent can lead to eviction, which has cascading effects on employment, stability, and health.
+Always pay rent first. A credit card is unsecured debt - the worst consequence is collections and credit damage. Missing rent can lead to eviction, which has cascading effects on employment, stability, and health.
 
 What if I can only pay part of a bill?
 
@@ -1464,7 +1469,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1565,22 +1570,22 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Utility Shutoff Protections -- Keeping the Lights On
+## Utility Shutoff Protections - Keeping the Lights On
 Source: https://cantpaymybills.com/utility-shutoff-protections.html
 
-Utility Shutoff Protections -- Keeping the Lights On
+Utility Shutoff Protections - Keeping the Lights On
 
 Your rights and assistance programs when you cannot pay utilities
 
-cantpaymybills.com › Utility Shutoff Protections -- Keeping the Lights On
+cantpaymybills.com › Utility Shutoff Protections - Keeping the Lights On
 
 State Shutoff Protections
 
-Most states prohibit utility shutoffs under certain conditions: during extreme cold or heat, when a household member has a serious medical condition, for elderly or disabled residents, and when a payment plan is in effect. These protections vary significantly by state -- check your state public utility commission's website for specific rules. Many states have winter moratoriums (typically November through March) that prevent shutoffs entirely.
+Most states prohibit utility shutoffs under certain conditions: during extreme cold or heat, when a household member has a serious medical condition, for elderly or disabled residents, and when a payment plan is in effect. These protections vary significantly by state - check your state public utility commission's website for specific rules. Many states have winter moratoriums (typically November through March) that prevent shutoffs entirely.
 
-LIHEAP -- Federal Heating Assistance
+LIHEAP - Federal Heating Assistance
 
-The Low Income Home Energy Assistance Program (LIHEAP) provides federally funded assistance to pay heating and cooling bills. Eligibility is based on income (typically 150% of the federal poverty level or 60% of state median income). Apply through your state LIHEAP office -- search "LIHEAP" plus your state name. The program opens in fall for winter heating and spring for summer cooling. Funds are limited, so apply as early as possible.
+The Low Income Home Energy Assistance Program (LIHEAP) provides federally funded assistance to pay heating and cooling bills. Eligibility is based on income (typically 150% of the federal poverty level or 60% of state median income). Apply through your state LIHEAP office - search "LIHEAP" plus your state name. The program opens in fall for winter heating and spring for summer cooling. Funds are limited, so apply as early as possible.
 
 Utility Payment Plans and Budget Billing
 
@@ -1588,7 +1593,7 @@ Most utilities are required by state regulators to offer payment plans for delin
 
 The Bankruptcy Automatic Stay and Utilities
 
-Filing bankruptcy triggers the automatic stay, which immediately stops utility shutoffs -- even if your account is severely delinquent. However, 11 U.S.C. 366 requires you to provide adequate assurance of future payment (typically a deposit) within 20 days of filing. The stay buys you time to get current or enroll in assistance programs.
+Filing bankruptcy triggers the automatic stay, which immediately stops utility shutoffs - even if your account is severely delinquent. However, 11 U.S.C. 366 requires you to provide adequate assurance of future payment (typically a deposit) within 20 days of filing. The stay buys you time to get current or enroll in assistance programs.
 
 Frequently Asked Questions
 
@@ -1617,7 +1622,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1715,3 +1720,75 @@ Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Privacy Policy - cantpaymybills.com
+Source: https://cantpaymybills.com/privacy.html
+
+cantpaymybills.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
